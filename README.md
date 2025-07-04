@@ -1,4 +1,4 @@
-<h1>Static Routing-Based Enterprise Branch Network with Segmented Department Access</h1>
+<h1>Segmented VLAN-Based Branch Network with Inter-VLAN and WAN Routing</h1>
 
 
 <h2>Description</h2>
